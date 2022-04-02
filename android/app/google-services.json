@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "451557061347",
+    "project_id": "absen-bb099",
+    "storage_bucket": "absen-bb099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451557061347:android:4487956d066c19d66a0bd6",
+        "android_client_info": {
+          "package_name": "com.arkademi.absen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451557061347-gssnqdla57fbcohmm5s9f6ta0ng5lc1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgstFq2uWxCc0KWg4QsfXIt1Mwnran13Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451557061347-gssnqdla57fbcohmm5s9f6ta0ng5lc1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451557061347-d1mrmugk9o1ind8ncchp7vn6gcq6ife4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arkademi.absen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451557061347:android:bce8f9341a3fa3cd6a0bd6",
+        "android_client_info": {
+          "package_name": "com.hashmicro.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451557061347-gssnqdla57fbcohmm5s9f6ta0ng5lc1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgstFq2uWxCc0KWg4QsfXIt1Mwnran13Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451557061347-gssnqdla57fbcohmm5s9f6ta0ng5lc1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451557061347-d1mrmugk9o1ind8ncchp7vn6gcq6ife4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arkademi.absen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
